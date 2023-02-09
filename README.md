@@ -6,8 +6,8 @@ and its subdirectories, using `ffprobe` and a progress bar. The result is writte
 ```
 
 ## Requirements
-- Python 3
-- ffprobe
+- Python 3.10
+- ffprobe.exe
 - tqdm (for progress bar)
 
 ## Usage
@@ -17,6 +17,9 @@ and its subdirectories, using `ffprobe` and a progress bar. The result is writte
 pip install tqdm
 ```
 2. Clone this repository or download the script.
+```bash
+git clone https://github.com/Qiamast/Directory-Video-Duration-Calculator.git
+```
 3. Run the script in the terminal/command prompt:
 ```bash
 python main.py
