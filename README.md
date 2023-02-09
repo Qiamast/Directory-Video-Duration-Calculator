@@ -23,6 +23,9 @@ python main.py
 ```
 
 4. The result will be written to a text file named `total_duration.txt`.
+```bash
+Total duration of all videos: 71.66 hours
+```
 
 ## Support
 
